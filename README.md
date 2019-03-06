@@ -1,4 +1,4 @@
 Code Challenges
 -----------------
 
-[x] Codility tasks: https://codility.com/train/
+- [x] Codility tasks: https://codility.com/train/
